@@ -1,6 +1,7 @@
 # ASCII Art Web Generator
+![Unknown-1](https://github.com/user-attachments/assets/ef129457-e04b-460e-b7a3-704499c962e2)
+![Unknown](https://github.com/user-attachments/assets/2a2d3675-81a0-4315-8265-cc444cc63e12)
 
-![ASCII Art Demo](website/images/example.png) <!-- Replace with a real screenshot or GIF -->
 
 Convert your images into ASCII art directly in the browser!  
 This project is fully web-based, interactive, and works in GitHub Codespaces or any modern browser.
