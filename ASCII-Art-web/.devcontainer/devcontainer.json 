@@ -1,0 +1,8 @@
+{
+  "name": "ASCII Art Web Generator",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "extensions": [
+      "ms-vscode.live-server"
+  ],
+  "postCreateCommand": "echo 'Web ASCII Art Generator Ready!'"
+}

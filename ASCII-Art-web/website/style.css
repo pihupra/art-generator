@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    padding: 30px;
+    background-color: #111;
+    color: #0f0;
+}
+
+pre {
+    text-align: left;
+    display: inline-block;
+    padding: 20px;
+    background-color: #222;
+    color: #0f0;
+    white-space: pre-wrap;
+}

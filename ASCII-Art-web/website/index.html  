@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASCII Art Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>ASCII Art Generator</h1>
+    <p>Upload an image to convert it to ASCII art:</p>
+    <input type="file" id="upload" accept="image/*">
+    <pre id="ascii-output"></pre>
+    <script src="script.js"></script>
+</body>
+</html>
